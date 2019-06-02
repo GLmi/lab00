@@ -9,8 +9,8 @@
 - [x] 3. Зарегистрироваться на сервисе совместной разработки **GitHub**
 - [ ] 4. Отправить зарегистрированный адрес почтового ящика личным сообщением в **Slack**
 - [ ] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
-- [ ] 6. Ознакомиться со ссылками учебного материала
-- [ ] 7. Выполнить инструкцию учебного материала
+- [X] 6. Ознакомиться со ссылками учебного материала
+- [X] 7. Выполнить инструкцию учебного материала
 - [x] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
 - [ ] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
@@ -18,16 +18,26 @@
 
 ```sh
 # tip: check development environment
-$ cmake --version
-$ curl --version
-$ git --version
-$ g++ --version
-$ hub --version
-$ make --version
-$ subl --version
-$ tree --version
-$ wget --version
-$ openssl version
+$ cmake --version #cmake version check
+cmake version 3.14.5
+$ curl --version #curl version check
+curl 7.65.0
+$ git --version #git version check
+git version 2.21.0
+$ g++ --version #gcc version check
+g++ (GCC) 8.3.0
+$ hub --version #hub version check
+hub version 2.11.2
+$ make --version #make version check
+GNU Make 4.2.1
+$ subl --version #subl version check
+Sublime Text Build 3207
+$ tree --version #tree version check
+tree v1.8.0
+$ wget --version #wget version check
+GNU Wget 1.20.3
+$ openssl version #openssl version check
+OpenSSL 1.1.1c
 ```
 
 ## Links
